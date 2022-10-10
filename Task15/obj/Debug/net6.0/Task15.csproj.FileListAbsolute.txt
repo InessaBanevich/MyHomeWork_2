@@ -1,0 +1,15 @@
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\bin\Debug\net6.0\Task15.exe
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\bin\Debug\net6.0\Task15.deps.json
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\bin\Debug\net6.0\Task15.dll
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\bin\Debug\net6.0\Task15.pdb
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.dll
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\refint\Task15.dll
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.pdb
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+D:\Учеба\C#\HomeWorks\HomeWork_2\Task15\obj\Debug\net6.0\ref\Task15.dll
